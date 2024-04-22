@@ -1,0 +1,5 @@
+with "/home/jason/opt/sdlada/share/gpr/sdlada.gpr";
+
+project main is
+   for Main use ("main.adb");
+end main;

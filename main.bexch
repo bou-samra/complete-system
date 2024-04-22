@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/jason/Desktop/complete system/main.gpr
+20240422095333 7ecc19f446c8bb6eef48da0d214d6ddb
+/home/jason/opt/sdlada/share/gpr/sdlada.gpr
+20230506025901 c5b24deeb12cd5609c5c728ca025c42e
+[BOUND OBJECT FILES]
+/home/jason/Desktop/complete system/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/jason/Desktop/complete system/
+-L/home/jason/Desktop/complete system/
+-L/home/jason/opt/sdlada/lib/sdlada.release/
+-L/usr/lib/gcc/x86_64-redhat-linux/13/adalib/
+-static
+-lgnat
+-ldl

@@ -10,6 +10,9 @@ Amiga complete system demo
 
 `gprbuild -largs $(pkg-config sdl2 SDL2_image --libs)`
 
+## Screenshot
+![Complete System](https://github.com/bou-samra/complete-system/blob/main/img/AmigaSys.ilbm.png)
+
 ## Misc.
 
 * A bit of nostalgia
